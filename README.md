@@ -1,1 +1,1 @@
-# Read
+https://tataplay.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1757681541~acl=%2f*~id=f4a4ce38-bf76-47c5-a971-272145a93499~data=hdntl~hmac=274e02fc4ca578c9e9676ba60ca58257034a8d612a02d5b673ed20a92bb2d065/master_3500.m3u8
